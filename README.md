@@ -19,7 +19,10 @@ The app uses OpenAI API for AI tasks and Clerk for user authentication.
 - Responsive UI with simple styling
 
 ---
+## MAIN NOTE:
 
+ - After signin of you are in first page it self just go to <page>/playground to check the next pages.
+ - Soon i will update this and the API KEY.
 ## Setup Instructions
 
 ### Prerequisites
